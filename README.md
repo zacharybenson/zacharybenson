@@ -60,3 +60,5 @@ I'm a Data Scientist 💻 !
 ## 📈 GitHub Stats 
 
 [![Zachs's github stats](https://github-readme-stats.vercel.app/api?username=zacharybenson)](https://github.com/zacharybenson)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zacharybenson&layout=compact)](https://github.com/zacharybenson)
