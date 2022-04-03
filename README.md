@@ -14,7 +14,9 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ### 🤝 Connect with me:
 
-<a href="https://github.com/zacharybenson/zacharybenson/blob/main/linkedin.png"><img align="left" src="https://github.com/zacharybenson/zacharybenson/blob/main/linkedin.png" alt="Zachary Benson | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/zacharybenson/"><img align="left" src="https://github.com/zacharybenson/zacharybenson/blob/main/linkedin.png" alt="Zachary Benson | LinkedIn" width="21px"/></a>
+
+<br>
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
