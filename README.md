@@ -58,6 +58,5 @@ I'm a Data Scientist 💻 !
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717) -->
 
 ## 📈 GitHub Stats 
-<p align="center">
+
 [![Zachs's github stats](https://github-readme-stats.vercel.app/api?username=zacharybenson)](https://github.com/zacharybenson)
-</p>
