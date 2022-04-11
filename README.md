@@ -26,6 +26,7 @@ I'm a Data Scientist 💻 !
 
 -  :tensorflow: Tensorflow
 -  :react: React 
+- :_badger:
 -  :docker: Docker
 -  Material UI
 
