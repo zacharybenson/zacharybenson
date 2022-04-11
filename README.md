@@ -26,8 +26,8 @@ I'm a Data Scientist 💻 !
 
 -  :tensorflow: Tensorflow
 -  :react: React 
-- :_badger:
 -  :docker: Docker
+-  :django: Django Rest Framework
 -  Material UI
 
 ## 💼 Technical Skills
@@ -41,6 +41,7 @@ I'm a Data Scientist 💻 !
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=003B57) -->
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=003B57)
 
 </br>
 
