@@ -19,12 +19,15 @@ I'm a Data Scientist 💻 !
 
 ## 🔭 I'm currently working on
 
-- Experiment + Application
+- React + Django Rest Framework Application
+- Multilabel Image Classifer
 
 ## 🌱 I'm currently learning
 
-- 📱 React 
--  Tensorflow
+-  :tensorflow: Tensorflow
+-  :react: React 
+-  :docker: Docker
+-  Material UI
 
 ## 💼 Technical Skills
 
