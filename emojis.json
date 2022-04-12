@@ -1,0 +1,2439 @@
+[
+  {
+    "name": "pants",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/pants.png"
+    
+  },
+  {
+    "name": "backstage",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/backstage.png"
+
+  },
+  {
+    "name": "terragrunt",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/terragrunt.png"
+
+  },
+  {
+    "name": "hydrogen",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/hydrogen.png"
+    
+  },
+  {
+    "name": "hermit",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/hermit.png"
+    
+  },
+  {
+    "name": "proto",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/proto.png"
+
+  },
+  {
+    "name": "octopus-deploy",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/octopus-deploy.png"
+
+  },
+  {
+    "name": "mpi",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/mpi.png"
+
+  },
+  {
+    "name": "snyk",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/snyk.png"
+
+  },
+  {
+    "name": "nextjs",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/nextjs.png"
+
+  },
+  {
+    "name": "pnpm",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/pnpm.png"
+
+  },
+  {
+    "name": "solhint",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/solhint.png"
+
+  },
+  {
+    "name": "buf",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/buf.png"
+
+  },
+  {
+    "name": "pre-commit",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/pre-commit.png"
+
+  },
+  {
+    "name": "gitguardian",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/gitguardian.png"
+
+  },
+  {
+    "name": "vscode",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/vscode.png"
+
+  },
+  {
+    "name": "chronosphere",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/chronosphere.png"
+
+  },
+  {
+    "name": "arch",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/arch.png"
+
+  },
+  {
+    "name": "cmake",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/cmake.png"
+
+  },
+  {
+    "name": "engflow",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/engflow.png"
+
+  },
+  {
+    "name": "gitpod",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/gitpod.png"
+
+  },
+  {
+    "name": "playwright",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/playwright.png"
+
+  },
+  {
+    "name": "fastly",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/fastly.png"
+
+  },
+  {
+    "name": "google-chat",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/google-chat.png"
+
+  },
+  {
+    "name": "faros",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/faros.png"
+
+  },
+  {
+    "name": "flowerwork",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/flowerwork.png"
+
+  },
+  {
+    "name": "k6",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/k6.png"
+
+  },
+  {
+    "name": "browserstack",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/browserstack.png"
+
+  },
+  {
+    "name": "tableau",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/tableau.png"
+
+  },
+  {
+    "name": "visual-regression-tracker",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/visual-regression-tracker.png"
+
+  },
+  {
+    "name": "selenium-gauge",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/selenium-gauge.png"
+
+  },
+  {
+    "name": "postman",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/postman.png"
+  },
+  {
+    "name": "scaleway",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/scaleway.png"
+
+  },
+  {
+    "name": "mssql",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/mssql.png"
+
+  },
+  {
+    "name": "switch",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/switch.png"
+
+  },
+  {
+    "name": "trivy",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/trivy.png"
+
+  },
+  {
+    "name": "komodor",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/komodor.png"
+
+  },
+  {
+    "name": "tilt-dev",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/tilt-dev.png"
+
+  },
+  {
+    "name": "elastic",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/elastic.png"
+
+  },
+  {
+    "name": "kibana",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/elastic-kibana.png"
+
+  },
+  {
+    "name": "xbox",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/xbox.png"
+
+  },
+  {
+    "name": "playstation",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/playstation.png"
+
+  },
+  {
+    "name": "shopify",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/shopify.png"
+
+  },
+  {
+    "name": "database",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/database.png"
+
+  },
+  {
+    "name": "dagster",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/dagster.png"
+
+  },
+  {
+    "name": "cloudflare",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/cloudflare.png"
+
+  },
+  {
+    "name": "copybara",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/copybara.png"
+
+  },
+  {
+    "name": "spinnaker",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/spinnaker.png"
+
+  },
+  {
+    "name": "mongodb",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/mongodb.png"
+
+  },
+  {
+    "name": "repolinter",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/repolinter.png"
+
+  },
+  {
+    "name": "liquibase",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/liquibase.png"
+
+  },
+  {
+    "name": "pinterest-teletraan",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/pinterest-teletraan.png"
+
+  },
+  {
+    "name": "github",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/github.png"
+
+  },
+  {
+    "name": "clearbit",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/clearbit.png"
+
+  },
+  {
+    "name": "auditjs",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/auditjs.png"
+
+  },
+  {
+    "name": "nancy",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/nancy.png"
+
+  },
+  {
+    "name": "golangci-lint",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/golangci-lint.png"
+
+  },
+  {
+    "name": "semgrep",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/semgrep.png"
+
+  },
+  {
+    "name": "home-assistant",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/home-assistant.png"
+  },
+  {
+    "name": "nexus-iq",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/nexus-iq.png"
+
+  },
+  {
+    "name": "vault",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/vault.png"
+
+  },
+  {
+    "name": "assurance",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/assurance64.png"
+
+  },
+  {
+    "name": "sonarcloud",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/sonarcloud.png"
+
+  },
+  {
+    "name": "crystal",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/crystal.png"
+
+  },
+  {
+    "name": "zapier",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/zapier.png"
+
+  },
+  {
+    "name": "julia",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/julia.png"
+
+  },
+  {
+    "name": "isort",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/isort.png"
+
+  },
+  {
+    "name": "alpine",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/alpine.png"
+
+  },
+  {
+    "name": "azure",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/azure.png"
+
+  },
+  {
+    "name": "gitsby",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/gitsby.png"
+
+  },
+  {
+    "name": "postmark",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/postmark.png"
+
+  },
+  {
+    "name": "twilio",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/twilio.png"
+
+  },
+  {
+    "name": "boomi",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/boomi.png"
+
+  },
+  {
+    "name": "wordpress",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/wordpress.png"
+
+  },
+  {
+    "name": "pfsense",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/pfsense.png"
+
+  },
+  {
+    "name": "traefik",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/traefik.png"
+
+  },
+  {
+    "name": "meteor",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/meteor.png"
+
+  },
+  {
+    "name": "moodle",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/moodle.png"
+
+  },
+  {
+    "name": "neo4j",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/neo4j.png"
+
+  },
+  {
+    "name": "pact",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/pact.png"
+
+  },
+  {
+    "name": "rstats",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/rstats.png"
+
+  },
+  {
+    "name": "google-apps-script",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/google-apps-script.png"
+
+  },
+  {
+    "name": "firebase",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/firebase.png"
+
+  },
+  {
+    "name": "one-does-not-simply",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/one-does-not-simply.png"
+
+  },
+  {
+    "name": "thisisfine",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/thisisfine.png"
+
+  },
+  {
+    "name": "perfection",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/perfection.png"
+
+  },
+  {
+    "name": "sweating",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/sweating.png"
+
+  },
+  {
+    "name": "serverspec",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/serverspec.png"
+
+  },
+  {
+    "name": "travisci",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/travisci.png"
+
+  },
+  {
+    "name": "podman",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/podman.png"
+
+  },
+  {
+    "name": "puppeteer",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/puppeteer.png"
+
+  },
+  {
+    "name": "auth0",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/auth0.png"
+
+  },
+  {
+    "name": "lua",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/lua.png"
+
+  },
+  {
+    "name": "walrusai",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/walrusai.png"
+
+  },
+  {
+    "name": "openpolicyagent",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/openpolicyagent.png"
+
+  },
+  {
+    "name": "snowflake-db",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/snowflake-db.png"
+  },
+  {
+    "name": "dbt",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/dbt.png"
+
+  },
+  {
+    "name": "shrek",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/shrek.png"
+
+  },
+  {
+    "name": "airbnb_stork",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/airbnb_stork.png"
+
+  },
+  {
+    "name": "circleci",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/circleci.png"
+
+  },
+  {
+    "name": "csharp",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/csharp.png"
+
+  },
+  {
+    "name": "dotnet",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/dotnet.png"
+
+  },
+  {
+    "name": "fsharp",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/fsharp.png"
+
+  },
+  {
+    "name": "nomad",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/nomad.png"
+
+  },
+  {
+    "name": "vagrant",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/vagrant.png"
+
+  },
+  {
+    "name": "karate",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/karate.png"
+  },
+  {
+    "name": "codeception",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/codeception.png"
+
+  },
+  {
+    "name": "phpstan",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/phpstan.png"
+
+  },
+  {
+    "name": "django",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/django.png"
+
+  },
+  {
+    "name": "vue",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/vue.png"
+
+  },
+  {
+    "name": "jupyter",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/jupyter.png"
+
+  },
+  {
+    "name": "algolia",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/algolia.png"
+
+  },
+  {
+    "name": "subversion",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/subversion.png"
+
+  },
+  {
+    "name": "batfish",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/batfish.png"
+
+  },
+  {
+    "name": "atlassian-confluence",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/atlassian-confluence.png"
+  },
+  {
+    "name": "atlassian-bitbucket",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/atlassian-bitbucket.png"
+  },
+  {
+    "name": "atlassian-jira",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/atlassian-jira.png"
+
+  },
+  {
+    "name": "atlassian",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/atlassian.png"
+
+  },
+  {
+    "name": "gatling",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/gatling.png"
+
+  },
+  {
+    "name": "phpunit",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/phpunit.png"
+
+  },
+  {
+    "name": "behat",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/behat.png"
+
+  },
+  {
+    "name": "consul",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/consul.png"
+
+  },
+  {
+    "name": "chromatic",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/chromatic.png"
+
+  },
+  {
+    "name": "bk-status-passed",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/bk-status-passed.png"
+
+  },
+  {
+    "name": "bk-status-failed",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/bk-status-failed.png"
+
+  },
+  {
+    "name": "bk-status-pending",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/bk-status-pending.png"
+
+  },
+  {
+    "name": "bk-status-running",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/bk-status-running.png"
+
+  },
+  {
+    "name": "dartlang",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/dartlang.png"
+
+  },
+  {
+    "name": "flutter",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/flutter.png"
+
+  },
+  {
+    "name": "jfrog-conan",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/jfrog-conan.png"
+
+  },
+  {
+    "name": "jfrog",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/jfrog.png"
+
+  },
+  {
+    "name": "jfrog-artifactory",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/jfrog-artifactory.png"
+
+  },
+  {
+    "name": "jfrog-xray",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/jfrog-xray.png"
+
+  },
+  {
+    "name": "cpp",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/cpp.png"
+
+  },
+  {
+    "name": "jenkins",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/jenkins.png"
+
+  },
+  {
+    "name": "tensorflow",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/tensorflow.png"
+
+  },
+  {
+    "name": "zookeeper",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/zookeeper.png"
+
+  },
+  {
+    "name": "rollup",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/rollup.png"
+
+  },
+  {
+    "name": "argo",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/argo.png"
+
+  },
+  {
+    "name": "bandit",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/bandit.png"
+
+  },
+  {
+    "name": "mypy",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/mypy.png"
+
+  },
+  {
+    "name": "messagemedia",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/messagemedia.png"
+
+  },
+  {
+    "name": "ios",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/ios.png"
+
+  },
+  {
+    "name": "aerospike",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/aerospike.png"
+
+  },
+  {
+    "name": "plaidml",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/plaidml.png"
+
+  },
+  {
+    "name": "tslint",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/tslint.png"
+
+  },
+  {
+    "name": "jsonnet",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/jsonnet.png"
+
+  },
+  {
+    "name": "raspberry-pi",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/raspberry-pi.png"
+
+  },
+  {
+    "name": "sqlite",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/sqlite.png"
+
+  },
+  {
+    "name": "sorbet",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/sorbet.png"
+
+  },
+  {
+    "name": "sonarqube",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/sonarqube.png"
+
+  },
+  {
+    "name": "wasm",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/wasm.png"
+
+  },
+  {
+    "name": "hbase",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/hbase.png"
+
+  },
+  {
+    "name": "elasticsearch",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/elastic-elasticsearch.png"
+
+  },
+  {
+    "name": "clippy",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/clippy.png"
+
+  },
+  {
+    "name": "grafana",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/grafana.png"
+
+  },
+  {
+    "name": "asciidoctor",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/asciidoctor.png"
+
+  },
+  {
+    "name": "python-black",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/python-black.png"
+
+  },
+  {
+    "name": "test-kitchen",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/test-kitchen.png"
+
+  },
+  {
+    "name": "gatsby",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/gatsby.png"
+
+  },
+  {
+    "name": "fluentd",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/fluentd.png"
+
+  },
+  {
+    "name": "cloudsmith",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/cloudsmith.png"
+
+  },
+  {
+    "name": "sidekiq",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/sidekiq.png"
+
+  },
+  {
+    "name": "hadolint",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/hadolint.png"
+
+  },
+  {
+    "name": "purescript",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/purescript.png"
+
+  },
+  {
+    "name": "haskell",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/haskell.png"
+
+  },
+  {
+    "name": "gradle",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/gradle.png"
+
+  },
+  {
+    "name": "wayfair",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/wayfair.png"
+
+  },
+  {
+    "name": "xcode",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/xcode.png"
+
+  },
+  {
+    "name": "xcode_simulator",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/xcode_simulator.png"
+
+  },
+  {
+    "name": "pinterest",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/pinterest.png"
+
+  },
+  {
+    "name": "jinja",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/jinja.png"
+
+  },
+  {
+    "name": "phabricator",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/phabricator.png"
+
+  },
+  {
+    "name": "pulumi",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/pulumi.png"
+
+  },
+  {
+    "name": "expeditor",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/expeditor.png"
+
+  },
+  {
+    "name": "airflow",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/airflow.png"
+
+  },
+  {
+    "name": "nix",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/nix.png"
+
+  },
+  {
+    "name": "glitch",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/glitch.png"
+
+  },
+  {
+    "name": "fly-io",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/fly-io.png"
+
+  },
+  {
+    "name": "lint-roller",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/lint-roller.png"
+
+  },
+  {
+    "name": "salesforce",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/salesforce.png"
+
+  },
+  {
+    "name": "esdoc",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/esdoc.png"
+
+  },
+  {
+    "name": "testobject",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/testobject.png"
+
+  },
+  {
+    "name": "lighthouse",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/lighthouse.png"
+
+  },
+  {
+    "name": "coverage",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/coverage.png"
+
+  },
+  {
+    "name": "fsociety",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/fsociety.png"
+
+  },
+  {
+    "name": "rubysec",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/rubysec.png"
+
+  },
+  {
+    "name": "ember",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/ember.png"
+
+  },
+  {
+    "name": "angular",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/angular.png"
+
+  },
+  {
+    "name": "appium",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/appium.png"
+
+  },
+  {
+    "name": "redis",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/redis.png"
+
+  },
+  {
+    "name": "anka",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/anka.png"
+
+  },
+  {
+    "name": "m3db",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/m3db.png"
+
+  },
+  {
+    "name": "yaml",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/yaml.png"
+
+  },
+  {
+    "name": "java",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/java.png"
+
+  },
+  {
+    "name": "apache",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/apache.png"
+
+  },
+  {
+    "name": "pytest",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/pytest.png"
+
+  },
+  {
+    "name": "hugo",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/hugo.png"
+
+    
+  },
+  {
+    "name": "ie",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/ie.png"
+
+    
+  },
+  {
+    "name": "medical_symbol",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/medical_symbol.png"
+
+  },
+  {
+    "name": "gnu",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/gnu.png"
+
+  },
+  {
+    "name": "habicat",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/habicat.png"
+
+  },
+  {
+    "name": "chef",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/chef-logo.png"
+
+  },
+  {
+    "name": "inspec",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/chef-inspec.png"
+
+
+  },
+  {
+    "name": "hyper",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/hyper.png"
+
+  },
+  {
+    "name": "sentry",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/sentry.png"
+
+  },
+  {
+    "name": "prettier",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/prettier.png"
+
+  },
+  {
+    "name": "retirejs",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/retirejs.png"
+
+  },
+  {
+    "name": "nodesecurity",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/nsp.png"
+
+  },
+  {
+    "name": "quick",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/quick.png"
+
+  },
+  {
+    "name": "fabric",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/fabric.png"
+
+  },
+  {
+    "name": "cocoapods",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/cocoapods.png"
+
+  },
+  {
+    "name": "safari",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/safari.png"
+
+  },
+  {
+    "name": "edge",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/edge.png"
+
+  },
+  {
+    "name": "clojure",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/clojure.png"
+
+
+  },
+  {
+    "name": "clojurescript",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/clojurescript.png"
+
+  },
+  {
+    "name": "suitest",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/suitest.png"
+
+  },
+  {
+    "name": "codeclimate",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/codeclimate.png"
+
+  },
+  {
+    "name": "convox",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/convox.png"
+
+  },
+  {
+    "name": "helm",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/helm.png"
+
+  },
+  {
+    "name": "markdown",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/markdown.png"
+
+  },
+  {
+    "name": "relay",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/relay.png"
+
+  },
+  {
+    "name": "watchman",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/watchman.png"
+
+  },
+  {
+    "name": "swagger",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/swagger.png"
+
+  },
+  {
+    "name": "piedpiper",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/piedpiper.png"
+
+  },
+  {
+    "name": "cloudfront",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/cloudfront.png"
+
+  },
+  {
+    "name": "python",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/python.png"
+
+  },
+  {
+    "name": "hiptest",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/hiptest.png"
+
+  },
+  {
+    "name": "cloudfoundry",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/cloudfoundry.png"
+
+  },
+  {
+    "name": "netbsd",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/netbsd.png"
+
+  },
+  {
+    "name": "openbsd",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/openbsd.png"
+
+  },
+  {
+    "name": "dragonflybsd",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/dragonflybsd.png"
+
+  },
+  {
+    "name": "rancher",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/rancher.png"
+
+  },
+  {
+    "name": "nightmare",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/nightmare.png"
+
+  },
+  {
+    "name": "gulp",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/gulp.png"
+
+  },
+  {
+    "name": "stryker",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/stryker.png"
+
+  },
+  {
+    "name": "bash",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/bash.png"
+
+  },
+  {
+    "name": "jekyll",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/jekyll.png"
+
+  },
+  {
+    "name": "bazel",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/bazel.png"
+
+  },
+  {
+    "name": "junit",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/junit.png"
+
+  },
+  {
+    "name": "maven",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/maven.png"
+
+  },
+  {
+    "name": "closure-compiler",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/closure-compiler.png"
+
+  },
+  {
+    "name": "storybook",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/storybook.png"
+
+  },
+  {
+    "name": "chromium",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/chromium.png"
+
+  },
+  {
+    "name": "selenium",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/selenium.png"
+
+  },
+  {
+    "name": "saucelabs",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/saucelabs.png"
+
+  },
+  {
+    "name": "cargo",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/cargo.png"
+
+  },
+  {
+    "name": "rust",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/rust.png"
+
+  },
+  {
+    "name": "kubernetes",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/kubernetes.png"
+  },
+  {
+    "name": "spark",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/spark.png"
+
+  },
+  {
+    "name": "kafka",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/kafka.png"
+
+  },
+  {
+    "name": "hadoop",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/hadoop.png"
+
+  },
+  {
+    "name": "scala",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/scala.png"
+
+  },
+  {
+    "name": "sbt",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/sbt.png"
+
+  },
+  {
+    "name": "ecr",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/ecr.png"
+
+  },
+  {
+    "name": "percy",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/percy.png"
+
+  },
+  {
+    "name": "civicrm",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/civicrm.png"
+
+  },
+  {
+    "name": "html-proofer",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/html.png"
+
+  },
+  {
+    "name": "haml",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/haml.png"
+
+  },
+  {
+    "name": "akamai",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/akamai.png"
+
+  },
+  {
+    "name": "pagerduty",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/pagerduty.png"
+
+  },
+  {
+    "name": "yarn",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/yarn.png"
+
+  },
+  {
+    "name": "looker",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/looker.png"
+
+  },
+  {
+    "name": "jest",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/jest.png"
+
+  },
+  {
+    "name": "fork",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/fork.png"
+
+  },
+  {
+    "name": "stylelint",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/stylelint.png"
+
+  },
+  {
+    "name": "chrome",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/chrome.png"
+
+  },
+  {
+    "name": "flowtype",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/flowtype.png"
+
+  },
+  {
+    "name": "grunt",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/grunt.png"
+
+  },
+  {
+    "name": "protractor",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/protractor.png"
+
+  },
+  {
+    "name": "electron",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/electron.png"
+
+  },
+  {
+    "name": "testflight",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/testflight.png"
+
+  },
+  {
+    "name": "rollbar",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/rollbar.png"
+
+  },
+  {
+    "name": "lendinghome",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/lendinghome.png"
+
+  },
+  {
+    "name": "lendinghome_ops",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/lendinghome_ops.png"
+
+  },
+  {
+    "name": "jshint",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/jshint.png"
+
+  },
+  {
+    "name": "scsslint",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/scsslint.png"
+
+  },
+  {
+    "name": "sasslang",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/sasslang.png"
+
+  },
+  {
+    "name": "sadpanda",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/sadpanda.png"
+
+  },
+  {
+    "name": "partyparrot",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/partyparrot.gif"
+
+  },
+  {
+    "name": "apex",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/apex.png"
+
+  },
+  {
+    "name": "serverless",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/serverless.png"
+
+  },
+  {
+    "name": "hockeyapp",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/hockeyapp.png"
+
+  },
+  {
+    "name": "firefox",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/firefox.png"
+
+  },
+  {
+    "name": "mina",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/mina.png"
+
+  },
+  {
+    "name": "webhook",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/webhook.png"
+
+  },
+  {
+    "name": "slack",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/slack.png"
+
+  },
+  {
+    "name": "hipchat",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/hipchat.png"
+
+  },
+  {
+    "name": "flowdock",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/flowdock.png"
+
+  },
+  {
+    "name": "campfire",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/campfire.png"
+
+  },
+  {
+    "name": "sumologic",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/sumologic.png"
+
+  },
+  {
+    "name": "swift",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/swift.png"
+
+  },
+  {
+    "name": "graphql",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/graphql.png"
+
+  },
+  {
+    "name": "cogops",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/cogops.png"
+
+  },
+  {
+    "name": "aws",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/aws.png"
+
+  },
+  {
+    "name": "mocha",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/mocha.png"
+
+  },
+  {
+    "name": "rails",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/rails.png"
+
+  },
+  {
+    "name": "phoenix",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/phoenix.png"
+
+  },
+  {
+    "name": "brunch",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/brunch.png"
+
+  },
+  {
+    "name": "android",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/android.png"
+
+  },
+  {
+    "name": "jasmine",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/jasmine.png"
+
+  },
+  {
+    "name": "react",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/react.png"
+
+  },
+  {
+    "name": "terraform",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/terraform.png"
+
+  },
+  {
+    "name": "javascript",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/javascript.png"
+  },
+  {
+    "name": "typescript",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/typescript.png"
+
+  },
+  {
+    "name": "git",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/git.png"
+
+  },
+  {
+    "name": "packer",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/packer.png"
+
+  },
+  {
+    "name": "babel",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/babel.png"
+
+  },
+  {
+    "name": "pipeline",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/pipeline.png"
+
+  },
+  {
+    "name": "allthethings",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/allthethings.png"
+
+  },
+  {
+    "name": "ansible",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/ansible.png"
+
+  },
+  {
+    "name": "appengine",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/appengine.png"
+  },
+  {
+    "name": "basecamp",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/basecamp.png"
+
+  },
+  {
+    "name": "basecampy",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/basecampy.png"
+
+  },
+  {
+    "name": "bower",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/bower.png"
+
+  },
+  {
+    "name": "bowtie",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/bowtie.png"
+
+  },
+  {
+    "name": "brakeman",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/brakeman.png"
+
+  },
+  {
+    "name": "bugsnag",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/bugsnag.png"
+
+  },
+  {
+    "name": "buildkite",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/buildkite.png"
+
+  },
+  {
+    "name": "bundler",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/bundler.png"
+
+  },
+  {
+    "name": "calibre",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/calibre.png"
+
+  },
+  {
+    "name": "capistrano",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/capistrano.png"
+
+  },
+  {
+    "name": "centos",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/centos.png"
+
+  },
+  {
+    "name": "codecov",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/codecov.png"
+
+  },
+  {
+    "name": "compute",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/compute.png"
+
+  },
+  {
+    "name": "cucumber",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/cucumber.png"
+    
+  },
+  {
+    "name": "datadog",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/datadog.png"
+
+  },
+  {
+    "name": "datocms",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/datocms.png"
+
+  },
+  {
+    "name": "debian",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/debian.png"
+
+  },
+  {
+    "name": "detox",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/detox.png"
+
+  },
+  {
+    "name": "docker",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/docker.png"
+
+  },
+  {
+    "name": "eslint",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/eslint.png"
+
+  },
+  {
+    "name": "fastlane",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/fastlane.png"
+
+  },
+  {
+    "name": "fedora",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/fedora.png"
+
+  },
+  {
+    "name": "feelsgood",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/feelsgood.png"
+
+  },
+  {
+    "name": "finder",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/finder.png"
+
+  },
+  {
+    "name": "finnadie",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/finnadie.png"
+
+  },
+  {
+    "name": "flynn",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/flynn.png"
+
+  },
+  {
+    "name": "freebsd",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/freebsd.png"
+
+  },
+  {
+    "name": "fu",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/fu.png"
+
+  },
+  {
+    "name": "goberserk",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/goberserk.png"
+
+  },
+  {
+    "name": "godmode",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/godmode.png"
+
+  },
+  {
+    "name": "golang",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/golang.png"
+
+  },
+  {
+    "name": "googlecloud",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/googlecloud.png"
+
+  },
+  {
+    "name": "green_button",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/green_button.png"
+
+  },
+  {
+    "name": "heroku",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/heroku.png"
+
+  },
+  {
+    "name": "hurtrealbad",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/hurtrealbad.png"
+
+  },
+  {
+    "name": "json",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/json.png"
+
+  },
+  {
+    "name": "karma",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/karma.png"
+
+  },
+  {
+    "name": "knapsack",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/knapsack.png"
+
+  },
+  {
+    "name": "linux",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/linux.png"
+
+  },
+  {
+    "name": "llama",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/llama.png"
+
+  },
+  {
+    "name": "mac",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/mac.png"
+
+  },
+  {
+    "name": "metal",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/metal.png"
+
+  },
+  {
+    "name": "mysql",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/mysql.png"
+
+  },
+  {
+    "name": "neckbeard",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/neckbeard.png"
+
+  },
+  {
+    "name": "newrelic",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/newrelic.png"
+
+  },
+  {
+    "name": "nginx",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/nginx.png"
+
+  },
+  {
+    "name": "node",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/node.png"
+
+  },
+  {
+    "name": "npm",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/npm.png"
+
+  },
+  {
+    "name": "octocat",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/octocat.png"
+
+  },
+  {
+    "name": "oracle_linux",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/oracle_linux.png"
+
+  },
+  {
+    "name": "packagecloud",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/packagecloud.png"
+
+  },
+  {
+    "name": "php",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/php.png"
+
+  },
+  {
+    "name": "postgres",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/postgres.png"
+
+  },
+  {
+    "name": "rage1",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/rage1.png"
+
+  },
+  {
+    "name": "rage2",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/rage2.png"
+
+  },
+  {
+    "name": "rage3",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/rage3.png"
+
+  },
+  {
+    "name": "rage4",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/rage4.png"
+
+  },
+  {
+    "name": "red_button",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/red_button.png"
+
+  },
+  {
+    "name": "redhat",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/redhat.png"
+
+  },
+  {
+    "name": "route53",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/route53.png"
+
+  },
+  {
+    "name": "rspec",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/rspec.png"
+
+  },
+  {
+    "name": "rubocop",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/rubocop.png"
+
+  },
+  {
+    "name": "ruby",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/ruby.png"
+
+  },
+  {
+    "name": "elixir",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/elixir.png"
+
+  },
+  {
+    "name": "credo",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/credo.png"
+
+  },
+  {
+    "name": "erlang",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/erlang.png"
+
+  },
+  {
+    "name": "hex",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/hex.png"
+
+  },
+  {
+    "name": "rubygems",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/rubygems.png"
+
+  },
+  {
+    "name": "scientific_linux",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/scientific_linux.png"
+
+  },
+  {
+    "name": "shipit",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/shipit.png"
+
+  },
+  {
+    "name": "suspect",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/suspect.png"
+
+  },
+  {
+    "name": "terminal",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/terminal.png"
+
+  },
+  {
+    "name": "trollface",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/trollface.png"
+
+  },
+  {
+    "name": "ubuntu",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/ubuntu.png"
+
+  },
+  {
+    "name": "parcel",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/parcel.png"
+
+  },
+  {
+    "name": "webpack",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/webpack.png"
+
+  },
+  {
+    "name": "windows",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/windows.png"
+
+  },
+  {
+    "name": "quay",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/quay.png"
+
+  },
+  {
+    "name": "wraith",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/wraith.png"
+
+  },
+  {
+    "name": "elm",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/elm.png"
+
+  },
+  {
+    "name": "exploding_death_star",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/exploding_death_star.gif"
+
+  },
+  {
+    "name": "composer",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/composer.png"
+
+  },
+  {
+    "name": "singularity",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/singularity.png"
+
+  },
+  {
+    "name": "kotlin",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/kotlin.png"
+
+  },
+  {
+    "name": "buck",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/buck.png"
+
+  },
+  {
+    "name": "cypress",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/cypress.png"
+
+  },
+  {
+    "name": "virtru",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/virtru.png"
+
+  },
+  {
+    "name": "happo",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/happo.png"
+
+  },
+  {
+    "name": "rea",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/rea.png"
+
+  },
+  {
+    "name": "carthage",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/carthage.png"
+
+  },
+  {
+    "name": "amazon-apigateway",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/amazon-apigateway.png"
+
+  },
+  {
+    "name": "amazon-athena",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/amazon-athena.png"
+
+  },
+  {
+    "name": "amazon-chime",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/amazon-chime.png"
+
+  },
+  {
+    "name": "amazon-clouddirectory",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/amazon-clouddirectory.png"
+
+  },
+  {
+    "name": "amazon-cloudsearch",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/amazon-cloudsearch.png"
+
+  },
+  {
+    "name": "amazon-cloudwatch",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/amazon-cloudwatch.png"
+
+  },
+  {
+    "name": "amazon-cognito",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/amazon-cognito.png"
+
+  },
+  {
+    "name": "amazon-connect",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/amazon-connect.png"
+
+  },
+  {
+    "name": "amazon-dynamodb",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/amazon-dynamodb.png"
+
+  },
+  {
+    "name": "amazon-dynamodbaccelerator",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/amazon-dynamodbaccelerator.png"
+
+  },
+  {
+    "name": "amazon-ec2",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/amazon-ec2.png"
+  },
+  {
+    "name": "amazon-ec2systemsmanager",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/amazon-ec2systemsmanager.png"
+
+  },
+  {
+    "name": "amazon-ecs",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/amazon-ecs.png"
+
+  },
+  {
+    "name": "amazon-efs",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/amazon-efs.png"
+
+  },
+  {
+    "name": "amazon-elasticcache",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/amazon-elasticcache.png"
+
+  },
+  {
+    "name": "amazon-elastictranscoder",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/amazon-elastictranscoder.png"
+
+  },
+  {
+    "name": "amazon-emr",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/amazon-emr.png"
+
+  },
+  {
+    "name": "amazon-es",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/amazon-es.png"
+
+  },
+  {
+    "name": "amazon-eventbridge",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/amazon-eventbridge.png"
+
+  },
+  {
+    "name": "amazon-gamelift",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/amazon-gamelift.png"
+
+  },
+  {
+    "name": "amazon-glacier",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/amazon-glacier.png"
+
+  },
+  {
+    "name": "amazon-inspector",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/amazon-inspector.png"
+
+  },
+  {
+    "name": "amazon-kinesis",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/amazon-kinesis.png"
+
+  },
+  {
+    "name": "amazon-lex",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/amazon-lex.png"
+
+  },
+  {
+    "name": "amazon-lightsail",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/amazon-lightsail.png"
+
+  },
+  {
+    "name": "amazon-machinelearning",
+    "url" : "https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/amazon-machinelearning.png"
+
+  },
+  {
+    "name": "amazon-macie",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/amazon-macie.png"
+
+  },
+  {
+    "name": "amazon-mechanicalturk",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/amazon-mechanicalturk.png"
+
+  },
+  {
+    "name": "amazon-mobileanalytics",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/amazon-mobileanalytics.png"
+
+  },
+  {
+    "name": "amazon-pinpoint",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/amazon-pinpoint.png"
+
+  },
+  {
+    "name": "amazon-polly",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/amazon-polly.png"
+
+  },
+  {
+    "name": "amazon-quicksight",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/amazon-quicksight.png"
+
+  },
+  {
+    "name": "amazon-rds",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/amazon-rds.png"
+
+  },
+  {
+    "name": "amazon-redshift",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/amazon-redshift.png"
+
+  },
+  {
+    "name": "amazon-rekognition",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/amazon-rekognition.png"
+
+  },
+  {
+    "name": "amazon-s3",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/amazon-s3.png"
+
+  },
+  {
+    "name": "amazon-ses",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/amazon-ses.png"
+
+  },
+  {
+    "name": "amazon-sns",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/amazon-sns.png"
+
+  },
+  {
+    "name": "amazon-sqs",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/amazon-sqs.png"
+
+  },
+  {
+    "name": "amazon-swf",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/amazon-swf.png"
+
+  },
+  {
+    "name": "amazon-vpc",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/amazon-vpc.png"
+
+  },
+  {
+    "name": "aws-applicationdiscoveryservice",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/aws-applicationdiscoveryservice.png"
+
+  },
+  {
+    "name": "aws-artifact",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/aws-artifact.png"
+
+  },
+  {
+    "name": "aws-batch",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/aws-batch.png"
+
+  },
+  {
+    "name": "aws-certificatemanager",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/aws-certificatemanager.png"
+
+  },
+  {
+    "name": "aws-cli",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/aws-cli.png"
+
+  },
+  {
+    "name": "aws-cloudformation",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/aws-cloudformation.png"
+
+  },
+  {
+    "name": "aws-cloudhsm",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/aws-cloudhsm.png"
+
+  },
+  {
+    "name": "aws-cloudtrail",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/aws-cloudtrail.png"
+
+  },
+  {
+    "name": "aws-codebuild",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/aws-codebuild.png"
+
+  },
+  {
+    "name": "aws-codecommit",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/aws-codecommit.png"
+
+  },
+  {
+    "name": "aws-codedeploy",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/aws-codedeploy.png"
+
+  },
+  {
+    "name": "aws-codepipeline",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/aws-codepipeline.png"
+  },
+  {
+    "name": "aws-codestar",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/aws-codestar.png"
+
+  },
+  {
+    "name": "aws-config",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/aws-config.png"
+
+  },
+  {
+    "name": "aws-datapipeline",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/aws-datapipeline.png"
+
+  },
+  {
+    "name": "aws-devicefarm",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/aws-devicefarm.png"
+
+  },
+  {
+    "name": "aws-directoryservice",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/aws-directoryservice.png"
+
+  },
+  {
+    "name": "aws-dms",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/aws-dms.png"
+
+  },
+  {
+    "name": "aws-elasticbeanstalk",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/aws-elasticbeanstalk.png"
+  },
+  {
+    "name": "aws-glue",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/aws-glue.png"
+
+  },
+  {
+    "name": "aws-iam",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/aws-iam.png"
+
+  },
+  {
+    "name": "aws-iot",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/aws-iot.png"
+
+  },
+  {
+    "name": "aws-kms",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/aws-kms.png"
+
+  },
+  {
+    "name": "aws-lambda",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/aws-lambda.png"
+
+  },
+  {
+    "name": "aws-logo",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/aws-logo.png"
+
+  },
+  {
+    "name": "aws-managedservices",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/aws-managedservices.png"
+
+  },
+  {
+    "name": "aws-opsworks",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/aws-opsworks.png"
+
+  },
+  {
+    "name": "aws-organizations",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/aws-organizations.png"
+
+  },
+  {
+    "name": "aws-servicecatalog",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/aws-servicecatalog.png"
+
+  },
+  {
+    "name": "aws-shield",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/aws-shield.png"
+
+  },
+  {
+    "name": "aws-sms",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/aws-sms.png"
+
+  },
+  {
+    "name": "aws-snowball",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/aws-snowball.png"
+
+  },
+  {
+    "name": "aws-stepfunctions",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/aws-stepfunctions.png"
+
+  },
+  {
+    "name": "aws-storagegateway",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/aws-storagegateway.png"
+
+  },
+  {
+    "name": "aws-trustedadvisor",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/aws-trustedadvisor.png"
+
+  },
+  {
+    "name": "aws-waf",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/aws-waf.png"
+
+  },
+  {
+    "name": "aws-x-ray",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/aws-x-ray.png"
+
+  },
+  {
+    "name": "elasticloadbalancing",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/elasticloadbalancing.png"
+
+  },
+  {
+    "name": "splunk",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/splunk.png"
+
+  },
+  {
+    "name": "batman",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/batman.png"
+
+  },
+  {
+    "name": "prometheus",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/prometheus.png"
+
+  },
+  {
+    "name": "hubspot",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/hubspot.png"
+
+  },
+  {
+    "name": "tauri",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/tauri.png"
+
+  },
+  {
+    "name": "kong",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/kong.png"
+
+  },
+  {
+    "name": "openapi",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/openapi.png"
+
+  },
+  {
+    "name": "buildpacks",
+    "url" :"https://github.com/buildkite/emojis/tree/main/img-apple-64/img-buildkite-64/buildpacks.png"
+  }
+]
+
