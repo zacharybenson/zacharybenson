@@ -27,6 +27,7 @@ I'm a Data Scientist 💻 !
 ## 🌱 I'm currently learning
 
 -  :tensorflow: Tensorflow
+-  :scikit: scikit
 -  :react: React 
 -  :docker: Docker
 -  :django: Django Rest Framework
