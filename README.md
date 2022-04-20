@@ -29,7 +29,7 @@ I'm a Data Scientist 💻 !
 -  :tensorflow: Tensorflow
 -  :scikit: scikit
 -  :react: React 
--  :docker: Docker
+-  🐳 Docker
 -  :django: Django Rest Framework
 -  Material UI
 
