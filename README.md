@@ -22,16 +22,14 @@ I'm a Data Scientist 💻 !
 ## 🔭 I'm currently working on
 
 - React + Django Rest Framework Application
-- Multilabel Image Classifer
 
 ## 🌱 I'm currently learning
 
--  :tensorflow: Tensorflow
--  :scikit: scikit
--  :react: React 
--  🐳 Docker
--  :django: Django Rest Framework
--  Material UI
+-   <img src= "https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt=""/>
+-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt=""/> 
+-  <img src="https://img.shields.io/badge/Docker-008FCC?style=for-the-badge&logo=docker&logoColor=white" alt=""/>
+-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt=""/>
+-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt=""/>
 
 ## 💼 Technical Skills
 
