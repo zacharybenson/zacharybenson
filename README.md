@@ -1,9 +1,3 @@
-
-
-<p align="center">
-  <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/zacharybenson/zacharybenson/blob/main/1.png" alt="my banner"></a>
-</p>
-
 <h3 align="center">
 Hi there, I'm Zach 👋
 </h3>
