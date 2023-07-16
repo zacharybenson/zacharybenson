@@ -22,11 +22,9 @@ I'm a Data Scientist 💻 !
 ## 🔭 I'm currently working on
 
 - React + Django Rest Framework Application
-- Amazon Bracket + SageMaker CNN
 
 ## 🌱 I'm currently learning
 
--   <img src= "https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt=""/>
 -  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt=""/> 
 -  <img src="https://img.shields.io/badge/Docker-008FCC?style=for-the-badge&logo=docker&logoColor=white" alt=""/>
 -  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt=""/>
