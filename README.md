@@ -5,11 +5,11 @@
 I'm a Data Scientist 🔬 & Space Warfighter 🛰️ who is passionate about Artificial Intelligence , Machine Learning, and Space Operations!
 
 ###
-🔭 I'm currently working on
+🔭 I'm currently working on:
 - The Odin Project 
 - USSF Supra Coders Pipeline
 
-🌱 I'm currently learning
+🌱 I'm currently learning:
 - Java Script, HTML, CSS
 
 {/} When I am not writing code I am: 
