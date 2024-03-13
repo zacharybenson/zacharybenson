@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey 👋 My name is Zachary Benson!</h1>
 
-I'm a Data Scientist 🔬 & Space Warfighter 🛰️ who is passionate about Artificial Intelligence , Machine Learning, and Space Operations!
+I'm a Data Scientist 🔬 & Space Warfighter 🛰️ who is passionate about Artificial Intelligence, Machine Learning, and Space Operations!
 
 ###
 🔭 I'm currently working on:
