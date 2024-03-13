@@ -2,11 +2,20 @@
 
 <h1 align="center">Hey 👋 My name is Zachary Benson</h1>
 
-I'm a Data Scientist & Space Warfighter 🛰️ who is passionate about Artificial Intelligence, Machine Learning, Space Operations!
+I'm a Data Scientist & Space Warfighter 🛰️ who is passionate about Artificial Intelligence , Machine Learning, Space Operations!
 
-- {/} When I am not writing code I am: Hiking 🥾, Climbing 🧗, Snowboarding 🏂
+###
+🔭 I'm currently working on
+- The Odin Project 
+- USSF Supra Coders Pipeline
 
+🌱 I'm currently learning
+- Java Script, HTML, CSS
 
+{/} When I am not writing code I am: 
+- Hiking 🥾
+- Climbing 🧗
+- Snowboarding 🏂
 
 ###
 
